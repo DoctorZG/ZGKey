@@ -1,0 +1,47 @@
+{
+  "articles/Arduino/Arduino.html": {
+    "href": "articles/Arduino/Arduino.html",
+    "title": "Get Started | DoctorZG",
+    "keywords": "Get Started My Center To use Mani Arduino projekti, no specific tools required. Configuration Text edit english after github connect .... ...."
+  },
+  "articles/Arduino/faq.html": {
+    "href": "articles/Arduino/faq.html",
+    "title": "FAQ | DoctorZG",
+    "keywords": "FAQ The specific Tools required? If You have Mani Arduino projekti, no specific tools required."
+  },
+  "articles/Arduino/overview.html": {
+    "href": "articles/Arduino/overview.html",
+    "title": "Mani Arduino projekti | DoctorZG",
+    "keywords": "Mani Arduino projekti Mani Arduino projekti text. Mani Arduino projekti is fully integrated with DoctorZG Company text."
+  },
+  "articles/Arduino/usage_scenarios.html": {
+    "href": "articles/Arduino/usage_scenarios.html",
+    "title": "Scenary | DoctorZG",
+    "keywords": "Scenary Basic for use of Kaut kas par droniem is created Click on the button..."
+  },
+  "articles/Droniem/Droniem.html": {
+    "href": "articles/Droniem/Droniem.html",
+    "title": "Get Started | DoctorZG",
+    "keywords": "Get Started My Center To use Kaut kas par droniem, no specific tools required. Configuration Text Par Droniem jau nav īsti ko stāstīt, par tiem pašiem arduino jau vien būs"
+  },
+  "articles/Droniem/faq.html": {
+    "href": "articles/Droniem/faq.html",
+    "title": "FAQ | DoctorZG",
+    "keywords": "FAQ The specific Tools required? If You have Kaut kas par droniem, no specific tools required."
+  },
+  "articles/Droniem/overview.html": {
+    "href": "articles/Droniem/overview.html",
+    "title": "Mani Arduino projekti | DoctorZG",
+    "keywords": "Mani Arduino projekti Kaut kas par droniem text. Kaut kas par droniem is fully integrated with DoctorZG Company text."
+  },
+  "articles/Droniem/usage_scenarios.html": {
+    "href": "articles/Droniem/usage_scenarios.html",
+    "title": "Scenary | DoctorZG",
+    "keywords": "Scenary Basic for use of Kaut kas par droniem is created Click on the button..."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "| DoctorZG",
+    "keywords": "#My World Kaut kas par droniem Mani Arduino projekti"
+  }
+}
