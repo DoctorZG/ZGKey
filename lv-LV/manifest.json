@@ -178,17 +178,6 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/favicon.heic",
-      "output": {
-        "resource": {
-          "relative_path": "images/favicon.heic"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
       "source_relative_path": "images/favicon.ico",
       "output": {
         "resource": {
