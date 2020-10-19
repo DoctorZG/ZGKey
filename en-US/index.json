@@ -1,4 +1,44 @@
 {
+  "articles/001_Arduino/overview.html": {
+    "href": "articles/001_Arduino/overview.html",
+    "title": "Mani Arduino projekti 001 | DoctorZG",
+    "keywords": "Mani Arduino projekti 001 Mani Arduino projekti text. Mani Arduino projekti is fully integrated with DoctorZG Company text."
+  },
+  "articles/002_Arduino/overview.html": {
+    "href": "articles/002_Arduino/overview.html",
+    "title": "Mani Arduino projekti 002 | DoctorZG",
+    "keywords": "Mani Arduino projekti 002 Mani Arduino projekti text. Mani Arduino projekti is fully integrated with DoctorZG Company text."
+  },
+  "articles/003_Arduino/overview.html": {
+    "href": "articles/003_Arduino/overview.html",
+    "title": "Mani Arduino projekti 003 | DoctorZG",
+    "keywords": "Mani Arduino projekti 003 Mani Arduino projekti text. Mani Arduino projekti is fully integrated with DoctorZG Company text."
+  },
+  "articles/004_Arduino/overview.html": {
+    "href": "articles/004_Arduino/overview.html",
+    "title": "Mani Arduino projekti 004 | DoctorZG",
+    "keywords": "Mani Arduino projekti 004 Mani Arduino projekti text. Mani Arduino projekti is fully integrated with DoctorZG Company text."
+  },
+  "articles/005_Arduino/overview.html": {
+    "href": "articles/005_Arduino/overview.html",
+    "title": "Mani Arduino projekti 005 | DoctorZG",
+    "keywords": "Mani Arduino projekti 005 Mani Arduino projekti text. Mani Arduino projekti is fully integrated with DoctorZG Company text."
+  },
+  "articles/006_Arduino/overview.html": {
+    "href": "articles/006_Arduino/overview.html",
+    "title": "Mani Arduino projekti 006 | DoctorZG",
+    "keywords": "Mani Arduino projekti 006 Mani Arduino projekti text. Mani Arduino projekti is fully integrated with DoctorZG Company text."
+  },
+  "articles/007_Arduino/overview.html": {
+    "href": "articles/007_Arduino/overview.html",
+    "title": "Mani Arduino projekti 007 | DoctorZG",
+    "keywords": "Mani Arduino projekti 007 Mani Arduino projekti text. Mani Arduino projekti is fully integrated with DoctorZG Company text."
+  },
+  "articles/008_Arduino/overview.html": {
+    "href": "articles/008_Arduino/overview.html",
+    "title": "Mani Arduino projekti 008 | DoctorZG",
+    "keywords": "Mani Arduino projekti 008 Mani Arduino projekti text. Mani Arduino projekti is fully integrated with DoctorZG Company text."
+  },
   "articles/Arduino/Arduino.html": {
     "href": "articles/Arduino/Arduino.html",
     "title": "Get Started | DoctorZG",
@@ -39,6 +79,11 @@
     "title": "Scenary | DoctorZG",
     "keywords": "Scenary Basic for use of Kaut kas par droniem is created Click on the button..."
   },
+  "articles/Mr.Freeman/overview.html": {
+    "href": "articles/Mr.Freeman/overview.html",
+    "title": "Šin un tas par Mr.Freeman | DoctorZG",
+    "keywords": "Šin un tas par Mr.Freeman Mani Arduino projekti text. Mani Arduino projekti is fully integrated with DoctorZG Company text."
+  },
   "articles/Test auto001.html": {
     "href": "articles/Test auto001.html",
     "title": "Get Started | DoctorZG",
@@ -47,6 +92,6 @@
   "index.html": {
     "href": "index.html",
     "title": "| DoctorZG",
-    "keywords": "#My World Kaut kas par droniem Mani Arduino projekti"
+    "keywords": "#My World Kaut kas par droniem Mani Arduino projekti [!include[app_001_Arduino](articles/includes/app_001_Arduino.md)] [!include[app_002_Arduino](articles/includes/app_002_Arduino.md)] [!include[app_003_Arduino](articles/includes/app_003_Arduino.md)] [!include[app_004_Arduino](articles/includes/app_004_Arduino.md)] [!include[app_005_Arduino](articles/includes/app_005_Arduino.md)] [!include[app_006_Arduino](articles/includes/app_006_Arduino.md)] [!include[app_007_Arduino](articles/includes/app_007_Arduino.md)]"
   }
 }
